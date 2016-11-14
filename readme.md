@@ -1,6 +1,5 @@
-Hello,
+Fully functional e-commerce websote for an online toy-store
 
-thank you for downloading Obaju, responsive bootstrap e-commerce template.
 
 ## 22 pages included: ##
 
@@ -59,12 +58,6 @@ Apart from Bootstrap JS components majority of JS is located in /js/front.js. In
 
 Google maps are used on the contact page. If you need just to show location of the company on the map, the only neccessary thing is to change coordinates in the header of contact.html. For further settings and possibilities please consult [Google Maps API documentation](https://developers.google.com/maps/documentation/javascript/).
 
-Thank you for downloading!
-
-ondrique
-
-If having some troubles, let me know at ahoj@ondrejsvestka.cz - I will try to help. Also if some custom modifications etc. needed - let me know.
-
 ## Credits ##
 
 - Bootstrap 3.2 - [http://getbootstrap.com/](http://getbootstrap.com/)
@@ -75,6 +68,7 @@ If having some troubles, let me know at ahoj@ondrejsvestka.cz - I will try to he
 - animate.css ([http://daneden.github.io/animate.css/](http://daneden.github.io/animate.css/))
 - Modernizr ([http://modernizr.com/](http://modernizr.com/)) 
 - Bootstrap Hover Dropdown plugin ([https://github.com/CWSpear/bootstrap-hover-dropdown](https://github.com/CWSpear/bootstrap-hover-dropdown))
+- Obaju, responsive bootstrap e-commerce template.
 
 
 
